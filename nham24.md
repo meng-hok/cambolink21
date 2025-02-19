@@ -18,7 +18,7 @@ curl --location 'https://hok-proxy.acetoz.com/mobile/api/v2/trips?travel_date=20
 - `from_location`: Departure location.
 - `to_location`: Arrival location.
 - `travel_date`: Departure date.
-- `intf`: Interface identifier (set to "abc" for vendor abc).
+- `intf`: Interface identifier (set to "nham24" for vendor nham24).
 
 **Response:**
 - `_id`: Unique identifier for the document.
